@@ -17,3 +17,5 @@ strictEqual(stack.isEmpty(), false)
 
 console.log(stack);
 
+console.log(stack.__raw__);
+
